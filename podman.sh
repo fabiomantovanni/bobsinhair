@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo mkdir -p /etc/apt/keyrings
 
 # Debian Testing/Bookworm
